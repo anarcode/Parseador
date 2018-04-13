@@ -1,0 +1,10 @@
+C:\Desarrollo\C#\Expresiones\Expresiones\bin\Debug\Expresiones.dll
+C:\Desarrollo\C#\Expresiones\Expresiones\bin\Debug\Expresiones.pdb
+C:\Desarrollo\C#\Expresiones\Expresiones\bin\Debug\Programa.dll
+C:\Desarrollo\C#\Expresiones\Expresiones\bin\Debug\System.ValueTuple.dll
+C:\Desarrollo\C#\Expresiones\Expresiones\bin\Debug\Programa.pdb
+C:\Desarrollo\C#\Expresiones\Expresiones\bin\Debug\System.ValueTuple.xml
+C:\Desarrollo\C#\Expresiones\Expresiones\obj\Debug\Expresiones.csprojResolveAssemblyReference.cache
+C:\Desarrollo\C#\Expresiones\Expresiones\obj\Debug\Expresiones.csproj.CoreCompileInputs.cache
+C:\Desarrollo\C#\Expresiones\Expresiones\obj\Debug\Expresiones.dll
+C:\Desarrollo\C#\Expresiones\Expresiones\obj\Debug\Expresiones.pdb

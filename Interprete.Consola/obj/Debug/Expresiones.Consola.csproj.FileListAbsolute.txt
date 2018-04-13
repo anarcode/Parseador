@@ -1,0 +1,15 @@
+C:\Desarrollo\C#\Expresiones\Expresiones.Consola\obj\Debug\Expresiones.Consola.csprojResolveAssemblyReference.cache
+C:\Desarrollo\C#\Expresiones\Expresiones.Consola\obj\Debug\Expresiones.Consola.csproj.CoreCompileInputs.cache
+C:\Desarrollo\C#\Expresiones\Expresiones.Consola\bin\Debug\programa.txt
+C:\Desarrollo\C#\Expresiones\Expresiones.Consola\bin\Debug\Expresiones.Consola.exe.config
+C:\Desarrollo\C#\Expresiones\Expresiones.Consola\bin\Debug\Expresiones.Consola.exe
+C:\Desarrollo\C#\Expresiones\Expresiones.Consola\bin\Debug\Expresiones.Consola.pdb
+C:\Desarrollo\C#\Expresiones\Expresiones.Consola\bin\Debug\Expresiones.dll
+C:\Desarrollo\C#\Expresiones\Expresiones.Consola\bin\Debug\Programa.dll
+C:\Desarrollo\C#\Expresiones\Expresiones.Consola\bin\Debug\System.ValueTuple.dll
+C:\Desarrollo\C#\Expresiones\Expresiones.Consola\bin\Debug\Expresiones.pdb
+C:\Desarrollo\C#\Expresiones\Expresiones.Consola\bin\Debug\Programa.pdb
+C:\Desarrollo\C#\Expresiones\Expresiones.Consola\bin\Debug\System.ValueTuple.xml
+C:\Desarrollo\C#\Expresiones\Expresiones.Consola\obj\Debug\Expresiones.Consola.exe
+C:\Desarrollo\C#\Expresiones\Expresiones.Consola\obj\Debug\Expresiones.Consola.pdb
+C:\Desarrollo\C#\Expresiones\Expresiones.Consola\bin\Debug\programaBonito.txt

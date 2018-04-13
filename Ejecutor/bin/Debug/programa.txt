@@ -1,0 +1,4 @@
+﻿program Prueba1
+{
+	int a = 2";
+}

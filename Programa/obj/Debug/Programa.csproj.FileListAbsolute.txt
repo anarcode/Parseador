@@ -1,0 +1,10 @@
+C:\Desarrollo\C#\Expresiones\Programa\bin\Debug\Programa.dll
+C:\Desarrollo\C#\Expresiones\Programa\bin\Debug\Programa.pdb
+C:\Desarrollo\C#\Expresiones\Programa\obj\Debug\Programa.csproj.CoreCompileInputs.cache
+C:\Desarrollo\C#\Expresiones\Programa\obj\Debug\Programa.dll
+C:\Desarrollo\C#\Expresiones\Programa\obj\Debug\Programa.pdb
+C:\Desarrollo\C#\Interprete\Programa\obj\Debug\Programa.csproj.CoreCompileInputs.cache
+C:\Desarrollo\C#\Interprete\Programa\bin\Debug\Programa.dll
+C:\Desarrollo\C#\Interprete\Programa\bin\Debug\Programa.pdb
+C:\Desarrollo\C#\Interprete\Programa\obj\Debug\Programa.dll
+C:\Desarrollo\C#\Interprete\Programa\obj\Debug\Programa.pdb

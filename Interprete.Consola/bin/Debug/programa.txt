@@ -1,0 +1,18 @@
+﻿program Prueba1
+{
+	int entero = 3;
+	string cadena = "Hola mi pene";
+	int otro = 2;
+
+	function MiPrimeraFuncion()
+	{
+		int entero = 2;
+		int entero2 = 11;
+	}
+
+	function MiSegundaFuncion()
+	{
+		int entero = 4567544;
+		int entero2 = 11;
+	}
+}

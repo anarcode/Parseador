@@ -1,0 +1,21 @@
+﻿program Prueba1
+{
+	declare
+	{
+		int entero = 3;
+		string cadena = "Hola mi pene";
+		int otro = 2;
+
+		function MiPrimeraFuncion()
+		{
+			declare
+			{
+				int entero = 4;
+			}
+
+			entero = entero + 1;
+		}
+	}
+
+	MiPrimeraFuncion();
+}

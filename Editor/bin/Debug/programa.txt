@@ -1,0 +1,15 @@
+﻿program Prueba1
+{
+	function string TextoTotal()
+	{
+		return "Este texto esta erecto";
+	}
+
+	function string pamplinas(int numero, string texto)
+	{
+		return TextoTotal();
+	}
+
+	string ca = pamplinas(1, "mi pene esta erecto");
+	int numero = 23;
+}

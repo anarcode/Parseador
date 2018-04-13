@@ -1,0 +1,16 @@
+C:\Desarrollo\C#\Interprete\Ejecutor\obj\Debug\Ejecutor.csproj.CoreCompileInputs.cache
+C:\Desarrollo\C#\Interprete\Ejecutor\obj\Debug\Ejecutor.csprojResolveAssemblyReference.cache
+C:\Desarrollo\C#\Interprete\Ejecutor\bin\Debug\programa.txt
+C:\Desarrollo\C#\Interprete\Ejecutor\bin\Debug\Ejecutor.exe.config
+C:\Desarrollo\C#\Interprete\Ejecutor\bin\Debug\Ejecutor.exe
+C:\Desarrollo\C#\Interprete\Ejecutor\bin\Debug\Ejecutor.pdb
+C:\Desarrollo\C#\Interprete\Ejecutor\bin\Debug\ElConstructor.dll
+C:\Desarrollo\C#\Interprete\Ejecutor\bin\Debug\Interprete.dll
+C:\Desarrollo\C#\Interprete\Ejecutor\bin\Debug\Programa.dll
+C:\Desarrollo\C#\Interprete\Ejecutor\bin\Debug\System.ValueTuple.dll
+C:\Desarrollo\C#\Interprete\Ejecutor\bin\Debug\ElConstructor.pdb
+C:\Desarrollo\C#\Interprete\Ejecutor\bin\Debug\Interprete.pdb
+C:\Desarrollo\C#\Interprete\Ejecutor\bin\Debug\Programa.pdb
+C:\Desarrollo\C#\Interprete\Ejecutor\bin\Debug\System.ValueTuple.xml
+C:\Desarrollo\C#\Interprete\Ejecutor\obj\Debug\Ejecutor.exe
+C:\Desarrollo\C#\Interprete\Ejecutor\obj\Debug\Ejecutor.pdb

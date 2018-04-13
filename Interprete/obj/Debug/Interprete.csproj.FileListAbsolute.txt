@@ -1,0 +1,10 @@
+C:\Desarrollo\C#\Interprete\Interprete\obj\Debug\Interprete.csproj.CoreCompileInputs.cache
+C:\Desarrollo\C#\Interprete\Interprete\obj\Debug\Interprete.csprojResolveAssemblyReference.cache
+C:\Desarrollo\C#\Interprete\Interprete\bin\Debug\Interprete.dll
+C:\Desarrollo\C#\Interprete\Interprete\bin\Debug\Interprete.pdb
+C:\Desarrollo\C#\Interprete\Interprete\bin\Debug\Programa.dll
+C:\Desarrollo\C#\Interprete\Interprete\bin\Debug\System.ValueTuple.dll
+C:\Desarrollo\C#\Interprete\Interprete\bin\Debug\Programa.pdb
+C:\Desarrollo\C#\Interprete\Interprete\bin\Debug\System.ValueTuple.xml
+C:\Desarrollo\C#\Interprete\Interprete\obj\Debug\Interprete.dll
+C:\Desarrollo\C#\Interprete\Interprete\obj\Debug\Interprete.pdb

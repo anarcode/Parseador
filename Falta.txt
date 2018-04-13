@@ -1,0 +1,25 @@
+Deuda técnica
+=============
+
+Cerdada enorme en el procesador de declaracion de función ya que miro que no haya llaves, pero eso con los ifs no va a tirar...
+Los procesadores de literales son casi lo mismo pero cambiando el tipo y la expresión
+
+
+
+
+Funcionalidad
+=============
+
+Operadores por tipo
+
+
+
+
+
+
+Futuro
+======
+
+==> Array
+==> Operadores
+==> Agrupar por literal de expresión las subexpresiones para hacer de forma atómica un conjunto o controlar el F10/f11 ??
