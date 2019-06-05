@@ -10,6 +10,6 @@
 		return TextoTotal();
 	}
 
-	string ca = pamplinas(1, "mi pene esta erecto");
+	string ca = pamplinas(1, "datos sin importancia. No mirar lo que había antes.");
 	int numero = 23;
 }
